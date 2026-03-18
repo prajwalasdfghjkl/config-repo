@@ -1,9 +1,9 @@
 ﻿replicaCount: 1
 
 image:
-  repository: nginx
-  tag: latest
-  pullPolicy: IfNotPresent
+  repository: myapp
+  tag: "1.0.0"
+  pullPolicy: Never
 
 service:
   type: ClusterIP
