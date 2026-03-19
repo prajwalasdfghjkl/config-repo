@@ -11,5 +11,5 @@ service:
   targetPort: 5000
 
 env:
-  APP_VERSION: "3.0.0"
+  APP_VERSION: "2.0.0"
   ENV: "staging"
