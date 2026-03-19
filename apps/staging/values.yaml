@@ -1,8 +1,8 @@
 ﻿replicaCount: 1
 
 image:
-  repository: myapp
-  tag: "1.0.1"
+  repository: 713881788927.dkr.ecr.ap-south-1.amazonaws.com/myapp
+  tag: "a69896434fcea27626b98d0529acb6d318156ceb"
   pullPolicy: Never
 
 service:
