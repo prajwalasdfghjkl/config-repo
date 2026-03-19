@@ -2,7 +2,7 @@
 
 image:
   repository: 713881788927.dkr.ecr.ap-south-1.amazonaws.com/myapp
-  tag: "a69896434fcea27626b98d0529acb6d318156ceb"
+  tag: "8abf7190062f1be912b0bd06f1a546c68b61a443"
   pullPolicy: Never
 
 service:
